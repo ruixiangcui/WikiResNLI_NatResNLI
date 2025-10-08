@@ -1,4 +1,4 @@
-# WikiResNLI_NatResNLI
+# WikiResNLI & NatResNLI Dataset
 WikiResNLI (a controlled
 synthetic dataset) and NatResNLI (a naturally occurring dataset) are two NLI datasets for probing LLMs ability to reason about “respectively” constructions.
 
